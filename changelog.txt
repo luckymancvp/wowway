@@ -1,0 +1,23 @@
+*** WowWay Changelog ***
+
+23 May 2012 - Version 1.1
+	
+	* Social media links open now in a new tab
+	* Back to top link(on mobile devices) fixed B
+	* Fixed favicon and initial # issue
+	* Added the ability to disable sidebar autohide
+	* Added the option to center the posts & pages
+	* Added the option to fit all portrait images from the fullscreen slideshows
+	* Added the ability to link directly to portfolio categories
+	* Added a custom.css in which you can add custom css rules, that will not be overwritten by future updates
+	* Created a new twitter widget that you can put in the footer
+	* Created a new page template featuring a fullscreen slideshow
+	* Created a new blog layout template, featuring full width posts & thumbs
+
+19 May 2012 - Version 1.0.1
+	
+	* Fixed double portfolio issue
+
+18 May 2012 - Version 1.0
+	
+	* First Release

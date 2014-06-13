@@ -1,0 +1,169 @@
+.customDesc {
+	color:#777;
+	display:block;
+	font-style:italic;
+	margin-top:5px;
+}
+#menu-posts-portfolio .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll 4px 5px transparent !important
+}
+#menu-posts-portfolio:hover .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll -21px 5px transparent !important
+}
+#menu-posts-portfolio.wp-has-current-submenu .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll -46px 5px transparent !important
+}
+
+.custom_preview_image {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	border-radius:5px;
+	cursor:move;
+	max-width:180px;
+}
+.custom_repeatable {
+	margin:0;
+}
+
+.custom_repeatable li {
+	background:#EEEEEE;
+    border-radius:5px;
+    padding:10px;
+    margin:0 20px 20px 0;
+	float:left;
+	width:180px;
+	box-shadow:0 1px 0 rgba(0,0,0,.2);
+}
+.custom_repeatable li > div {
+	width:180px;
+	margin-top:5px;
+}
+.repeatable-add {
+	clear:left;
+}
+
+.custom_repeatable li textarea {
+	border: 0 none;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
+    color: #AAAAAA;
+    font-family: Ubuntu;
+    height: 134px;
+    padding: 10px;
+    resize: none;
+    width:178px;
+}
+.moveimg {
+	    cursor: move;
+    float: right;
+}
+
+.custom_repeatable li textarea + div {    
+	display: block;
+    margin-top: 13px;
+    height:21px;
+}
+
+.metaDescription {
+	font-style:italic;
+	margin:15px 0 15px 3px;
+	line-height:20px;
+}
+.metaTable {
+	background:#FAFAFA;
+	border:1px solid #DDD;
+	border-radius:3px;
+	box-shadow:1px 1px 0px #DFDFDF;
+}
+.metaTable > div {
+	padding:20px;
+	border-top:1px solid #DDD;
+}
+.metaTable > div:first-child {
+	border-top:none;
+}
+
+.leftSide, .rightSide {
+	float:left;
+}
+
+#side-sortables .rightSide {
+	width:100%;
+}
+#side-sortables .customDesc {
+	margin-bottom:10px;
+}
+
+.metaTable input:not(.button), .metaTable textarea, .metaTable select {
+	width:100%;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+.customTitle {
+	font-family:'Ubuntu', 'Droid Sans', Arial, sans-serif;
+	font-size:16px;
+	font-weight:400;
+	margin:0 0 10px 0;
+	color:#666;
+	text-shadow:0 1px 0 #FFFFFF;
+}
+
+.rightSide {
+	margin-top:10px;
+	clear:left;
+}
+
+.none.rightSide {
+	display:none;
+}
+
+.button, .button-secondary, .button-primary {
+	border-radius:3px !important;
+}
+
+#postimagediv img, .thumbnail.column-thumbnail img {
+	border-radius:5px;
+}
+
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+.children:before, .children:after { content: ""; display: table; }
+.children:after { clear: both; }
+.children { zoom: 1; }
+
+.icon32-newsletter {
+	background:url(../images/mailIcon.png) no-repeat -11px -11px transparent;        
+    float: left;
+    height: 44px;
+    margin: 7px -13px 0 0;
+    width: 64px;
+}
+.newsletter table {
+	width:100%;
+	max-width:750px;
+}
+.newsletter {
+	margin-left:15px;
+}
+.newsletter table tbody tr:nth-child(odd){
+	background:#FCFCFC;
+}
+.newsletter thead tr th:first-child {
+	padding-left:5px;
+}
+.newsletter textarea {
+	width:100%;
+	max-width:750px;
+	height:150px;
+}
+
+
+.custom_repeatable input {
+	max-width:200px;
+}
+
+.metaTable select {
+	width:200px;
+}

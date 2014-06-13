@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WowWay Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-18 15:52+0200\n"
+"PO-Revision-Date: 2012-05-18 15:52+0200\n"
+"Last-Translator: Ruben Bristian <me@rubenbristian.com>\n"
+"Language-Team: RubenBristian & ChargedPixels <me@rubenbristian.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:18
+msgid "Comments "
+msgstr ""
+
+#: ../comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:49
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:50
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Submit"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:66
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../functions.php:69
+#: ../functions.php:86
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:147
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:161
+msgid "Top footer left side"
+msgstr ""
+
+#: ../functions.php:163
+msgid "The top footer's left side widget area"
+msgstr ""
+
+#: ../functions.php:171
+msgid "Top footer right side"
+msgstr ""
+
+#: ../functions.php:173
+msgid "The top footer's right side widget area"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Bottom footer left side"
+msgstr ""
+
+#: ../functions.php:183
+msgid "The bottom footer's left side widget area"
+msgstr ""
+
+#: ../functions.php:305
+msgid "Search for:"
+msgstr ""
+
+#: ../search.php:31
+msgid "Your search for "
+msgstr ""
+
+#: ../search.php:31
+msgid " returned "
+msgstr ""
+
+#: ../search.php:31
+msgid " results"
+msgstr ""
+
+#: ../includes/gallery.php:25
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/gallery.php:26
+#: ../includes/portfolio.php:26
+msgid "Project"
+msgstr ""
+
+#: ../includes/gallery.php:27
+#: ../includes/gallery.php:30
+#: ../includes/portfolio.php:27
+#: ../includes/portfolio.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../includes/gallery.php:28
+#: ../includes/portfolio.php:28
+msgid "Add New Project"
+msgstr ""
+
+#: ../includes/gallery.php:29
+#: ../includes/portfolio.php:29
+msgid "Edit Project"
+msgstr ""
+
+#: ../includes/gallery.php:31
+#: ../includes/portfolio.php:31
+msgid "View Project"
+msgstr ""
+
+#: ../includes/gallery.php:32
+msgid "Search Gallery"
+msgstr ""
+
+#: ../includes/gallery.php:33
+#: ../includes/portfolio.php:33
+msgid "No projects found"
+msgstr ""
+
+#: ../includes/gallery.php:34
+#: ../includes/portfolio.php:34
+msgid "No projects items found in trash"
+msgstr ""
+
+#: ../includes/gallery.php:91
+#: ../includes/portfolio.php:91
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/gallery.php:92
+#: ../includes/portfolio.php:92
+msgid "Category"
+msgstr ""
+
+#: ../includes/gallery.php:93
+#: ../includes/portfolio.php:93
+msgid "Date"
+msgstr ""
+
+#: ../includes/gallery.php:124
+#: ../includes/portfolio.php:119
+#: ../includes/portfolio.php:129
+msgid "None"
+msgstr ""
+
+#: ../includes/gallery.php:167
+#: ../includes/portfolio.php:172
+msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr ""
+
+#: ../includes/gallery.php:168
+#: ../includes/portfolio.php:173
+msgid "<strong>Title</strong> - Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+
+#: ../includes/gallery.php:169
+#: ../includes/portfolio.php:174
+msgid "<strong>Post editor</strong> - Enter the text for your post. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your post text. You can insert media files by clicking the icons above the post editor and following the directions. You can go the distraction-free writing screen, new in 3.2, via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular post editor."
+msgstr ""
+
+#: ../includes/gallery.php:170
+#: ../includes/portfolio.php:175
+msgid "<strong>Publish</strong> - You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
+msgstr ""
+
+#: ../includes/gallery.php:171
+#: ../includes/portfolio.php:176
+msgid "<strong>Post Format</strong> - This designates how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
+msgstr ""
+
+#: ../includes/gallery.php:172
+#: ../includes/portfolio.php:177
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the featured image as a post thumbnail on the home page, a custom header, etc."
+msgstr ""
+
+#: ../includes/gallery.php:173
+#: ../includes/portfolio.php:178
+msgid "<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
+msgstr ""
+
+#: ../includes/gallery.php:174
+#: ../includes/portfolio.php:179
+msgid "<strong>Discussion</strong> - You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
+msgstr ""
+
+#: ../includes/gallery.php:175
+#: ../includes/gallery.php:195
+#: ../includes/portfolio.php:180
+#: ../includes/portfolio.php:200
+msgid "For more information:"
+msgstr ""
+
+#: ../includes/gallery.php:176
+#: ../includes/portfolio.php:181
+msgid "<a href=\"http://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank\">Documentation on Writing and Editing Posts</a>"
+msgstr ""
+
+#: ../includes/gallery.php:177
+#: ../includes/gallery.php:197
+#: ../includes/portfolio.php:182
+#: ../includes/portfolio.php:202
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+msgstr ""
+
+#: ../includes/gallery.php:180
+#: ../includes/portfolio.php:185
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr ""
+
+#: ../includes/gallery.php:182
+#: ../includes/portfolio.php:187
+msgid "You can hide/display columns based on your needs and decide how many posts to list per screen using the Screen Options tab."
+msgstr ""
+
+#: ../includes/gallery.php:183
+#: ../includes/portfolio.php:188
+msgid "You can filter the list of posts by post status using the text links in the upper left to show All, Published, Draft, or Trashed posts. The default view is to show all posts."
+msgstr ""
+
+#: ../includes/gallery.php:184
+#: ../includes/portfolio.php:189
+msgid "You can view posts in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+
+#: ../includes/gallery.php:185
+#: ../includes/portfolio.php:190
+msgid "You can refine the list to show only posts in a specific category or from a specific month by using the dropdown menus above the posts list. Click the Filter button after making your selection. You also can refine the list by clicking on the post author, category or tag in the posts list."
+msgstr ""
+
+#: ../includes/gallery.php:187
+#: ../includes/portfolio.php:192
+msgid "Hovering over a row in the posts list will display action links that allow you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: ../includes/gallery.php:189
+#: ../includes/portfolio.php:194
+msgid "Edit takes you to the editing screen for that post. You can also reach that screen by clicking on the post title."
+msgstr ""
+
+#: ../includes/gallery.php:190
+#: ../includes/portfolio.php:195
+msgid "Quick Edit provides inline access to the metadata of your post, allowing you to update post details without leaving this screen."
+msgstr ""
+
+#: ../includes/gallery.php:191
+#: ../includes/portfolio.php:196
+msgid "Trash removes your post from this list and places it in the trash, from which you can permanently delete it."
+msgstr ""
+
+#: ../includes/gallery.php:192
+#: ../includes/portfolio.php:197
+msgid "Preview will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
+msgstr ""
+
+#: ../includes/gallery.php:194
+#: ../includes/portfolio.php:199
+msgid "You can also edit multiple posts at once. Select the posts you want to edit using the checkboxes, select Edit from the Bulk Actions menu and click Apply. You will be able to change the metadata (categories, author, etc.) for all selected posts at once. To remove a post from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+
+#: ../includes/gallery.php:196
+#: ../includes/portfolio.php:201
+msgid "<a href=\"http://codex.wordpress.org/Posts_Screen\" target=\"_blank\">Documentation on Managing Posts</a>"
+msgstr ""
+
+#: ../includes/metaboxes.php:20
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/metaboxes.php:28
+#: ../includes/metaboxes.php:118
+#: ../includes/metaboxes.php:141
+msgid "1. Choose a thumbnail"
+msgstr ""
+
+#: ../includes/metaboxes.php:29
+msgid "Don' forget to set a featured image for this post, if you want to enhance your blog. You can do this from the right side panel."
+msgstr ""
+
+#: ../includes/metaboxes.php:34
+msgid "2. Choose a background"
+msgstr ""
+
+#: ../includes/metaboxes.php:35
+msgid "If you want a special background for this post, just select one from the list below. If you have a default background set for all posts, just leave this at none and that background will be used."
+msgstr ""
+
+#: ../includes/metaboxes.php:41
+msgid "3. Set up a slider"
+msgstr ""
+
+#: ../includes/metaboxes.php:42
+msgid "If you want a slider or a single image/video to display in this post, you can add it through here. Both videos and images should have a maximum width of 650px and the same height."
+msgstr ""
+
+#: ../includes/metaboxes.php:50
+#: ../includes/metaboxes.php:74
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/metaboxes.php:58
+#: ../includes/metaboxes.php:82
+#: ../includes/metaboxes.php:100
+msgid "1. Choose a background"
+msgstr ""
+
+#: ../includes/metaboxes.php:59
+msgid "If you want a special background for this page, just select one from the list below. If you have a default background set for all pages, just leave this at none and that background will be used."
+msgstr ""
+
+#: ../includes/metaboxes.php:65
+#: ../includes/metaboxes.php:124
+#: ../includes/metaboxes.php:147
+msgid "2. Set up a slider"
+msgstr ""
+
+#: ../includes/metaboxes.php:66
+msgid "If you want a slider or a single image/video to display in this page, you can add it through here. Both videos and images should have a maximum width of 650px and the same height."
+msgstr ""
+
+#: ../includes/metaboxes.php:83
+msgid "If you want a special background for this page, just select one from the list below. If you have a default background set for all pages or if you want to display the map instead of a background, just leave this at none and that background will be used."
+msgstr ""
+
+#: ../includes/metaboxes.php:92
+msgid "Blog Options"
+msgstr ""
+
+#: ../includes/metaboxes.php:101
+msgid "If you want a special background for this page, just select one from the list below. If you have a default background set for all posts, just leave this at none and that background will be used."
+msgstr ""
+
+#: ../includes/metaboxes.php:110
+msgid "Project Options"
+msgstr ""
+
+#: ../includes/metaboxes.php:119
+msgid "Don' forget to set a featured image for this project. It will show in the portfolio grid. The image should have a 4:3 aspect ratio(best size is 360x270)."
+msgstr ""
+
+#: ../includes/metaboxes.php:125
+msgid "If you want a slider or a single image/video to display in this project, you can add it through here."
+msgstr ""
+
+#: ../includes/metaboxes.php:133
+msgid "Gallery Options"
+msgstr ""
+
+#: ../includes/metaboxes.php:142
+msgid "Don' forget to set a featured image for this project. It will show in the gallery grid. The image should have a 4:3 aspect ratio(best size is 240x180)."
+msgstr ""
+
+#: ../includes/metaboxes.php:148
+msgid "Add images to this project. Your images should be at least 1200 x 800 and have a good quality."
+msgstr ""
+
+#: ../includes/portfolio.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/portfolio.php:32
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../option-tree/classes/class.admin.php:1506
+msgid "Options"
+msgstr ""
+
+#: ../option-tree/classes/class.admin.php:1584
+msgid "Somebody"
+msgstr ""
+
+#: ../option-tree/classes/class.admin.php:1585
+msgid "Theme Options"
+msgstr ""
+
+#: ../option-tree/classes/class.admin.php:1585
+msgid "Settings"
+msgstr ""
+
+#: ../option-tree/classes/class.admin.php:1587
+#, php-format
+msgid "Warning: %s is currently editing the %s."
+msgstr ""
+
